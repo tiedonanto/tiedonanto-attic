@@ -1,2 +1,5 @@
 # tiedonanto
-coming soon
+
+"Tiedonanto" means "communication" in Finnish. Comming soon.
+
+
